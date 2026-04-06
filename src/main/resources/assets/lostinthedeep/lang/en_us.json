@@ -1,0 +1,13 @@
+{
+  "itemGroup.lostinthedeep": "Example Mod Tab",
+  "block.lostinthedeep.example_block": "Example Block",
+  "item.lostinthedeep.example_item": "Example Item",
+
+  "lostinthedeep.configuration.title": "Lost In The Deep Configs",
+  "lostinthedeep.configuration.section.lostinthedeep.common.toml": "Lost In The Deep Configs",
+  "lostinthedeep.configuration.section.lostinthedeep.common.toml.title": "Lost In The Deep Configs",
+  "lostinthedeep.configuration.items": "Item List",
+  "lostinthedeep.configuration.logDirtBlock": "Log Dirt Block",
+  "lostinthedeep.configuration.magicNumberIntroduction": "Magic Number Text",
+  "lostinthedeep.configuration.magicNumber": "Magic Number"
+}
